@@ -1,0 +1,6 @@
+/.vs/Ping/DesignTimeBuild/*.dtbcache
+/.vs/Ping/v15/*.suo
+/.vs/Ping/v15/Server/sqlite3/*.lock
+/.vs/Ping/v15/Server/sqlite3/*.ide
+/.vs/Ping/v15/Server/sqlite3/*.ide-shm
+/.vs/Ping/v15/Server/sqlite3/*.ide-wal
